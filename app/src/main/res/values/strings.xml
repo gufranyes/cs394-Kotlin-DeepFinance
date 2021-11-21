@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Deep Finance</string>
+
+    <string name="buying">Buying</string>
+    <string name="sales">Sales</string>
+    <string name="difference">Daily Difference</string>
+
+    <string name="foreignCurrency">Foreign Currency</string>
+    <string name="gold">Gold</string>
+    <string name="crypto">Crypto</string>
+    <string name="stocks">Stocks</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="enterEmail">Please enter your e-mail:</string>
+    <string name="enterPW">Please enter your password:</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="gotoreg">Go to Register Page</string>
+</resources>

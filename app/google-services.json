@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127698679643",
+    "project_id": "myfirstapp-1590a",
+    "storage_bucket": "myfirstapp-1590a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127698679643:android:aefca1bea492d9512e8c7e",
+        "android_client_info": {
+          "package_name": "com.gufran.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127698679643-916m1k8lnif5iemsupbcv8jb81s4v6ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApfR3vQpyMAqFmT7JTepfzha0bdWvg13E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127698679643-916m1k8lnif5iemsupbcv8jb81s4v6ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
